@@ -8,7 +8,12 @@
 <img src=https://i.hizliresim.com/halzm4y.png alt=Medium width="200" height="40" style="margin-bottom: 10px;" />
 </a>
 
+&nbsp;
 
+
+- 🔭 I'm currently study at Duzce University
+- 🌱 I’m currently learning C Programmer Language
+- 📝 I regularly write articles on Medium
 <!--
 **Themilkshake/Themilkshake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
