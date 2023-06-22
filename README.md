@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi 🖐, I am Seydi Ali!
+
+<a href="https://www.linkedin.com/in/seydi-ali-iclek" target="_blank">
+<img src=https://i.hizliresim.com/95ygs84.png alt=Linkedin width="40" height="40" style="margin-bottom: 10px;" />
+</a>
+&nbsp;
+<a href="https://medium.com/@seydialiiclek" target="_blank">
+<img src=https://i.hizliresim.com/ktgcqu0.png alt=Medium width="40" height="40" style="margin-bottom: 10px;" />
+</a>
+
 
 <!--
 **Themilkshake/Themilkshake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
