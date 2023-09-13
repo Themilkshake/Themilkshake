@@ -14,6 +14,9 @@
 - 🔭 I'm currently study at Duzce University
 - 🌱 I’m currently learning C Programmer Language
 - 📝 I regularly write articles on Medium
+
+
+![TheMilkShake's Stats](https://github-readme-stats.vercel.app/api?username=TheMilkShake&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 <!--
 **Themilkshake/Themilkshake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
