@@ -16,7 +16,9 @@
 - 📝 I regularly write articles on Medium
 
 
-![TheMilkShake's Stats](https://github-readme-stats.vercel.app/api?username=TheMilkShake&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![TheMilkShake's Stats](https://github-readme-stats.vercel.app/api?username=TheMilkShake&theme=react&show_icons=true&hide_border=true&count_private=true)
+
+![TheMilkShake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMilkShake&theme=react&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Themilkshake/Themilkshake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
