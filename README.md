@@ -12,7 +12,7 @@
 
 
 - 🔭 I'm currently study at Duzce University
-- 🌱 I’m currently learning C Programmer Language
+- 🌱 I’m currently learning Python Programmer Language
 - 📝 I regularly write articles on Medium
 
 
