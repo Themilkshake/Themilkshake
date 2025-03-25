@@ -1,11 +1,11 @@
 # Hi 🖐, I am Seydi Ali!
 
 <a href="https://www.linkedin.com/in/seydi-ali-iclek" target="_blank">
-<img src=https://i.hizliresim.com/fcfcldk.png alt=Linkedin width=200" height="40" style="margin-bottom: 10px;" />
+<img src=https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png alt=Linkedin width=200" height="40" style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://medium.com/@seydialiiclek" target="_blank">
-<img src=https://i.hizliresim.com/halzm4y.png alt=Medium width="200" height="40" style="margin-bottom: 10px;" />
+<img src=https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png alt=Medium width="200" height="40" style="margin-bottom: 10px;" />
 </a>
 
 &nbsp;
