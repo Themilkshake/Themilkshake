@@ -12,8 +12,8 @@
   <a href="https://seydiali.wordpress.com/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
          alt="Web Sitesi"
-         width="80"
-         height="80" />
+         width="50"
+         height="50" />
   </a>
 
 </div>
