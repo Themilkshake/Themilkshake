@@ -1,16 +1,23 @@
 # Hi 🖐, I am Seydi Ali!
 
-<a href="https://www.linkedin.com/in/seydi-ali-iclek" target="_blank">
-<img src=https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png alt=Linkedin width=100" height="100" style="margin-bottom: 10px;" />
-</a>
+<div style="display: flex; gap: 20px; align-items: center;">
+  
+  <a href="https://www.linkedin.com/in/seydi-ali-iclek" target="_blank">
+    <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png"
+         alt="LinkedIn"
+         width="100"
+         height="100" />
+  </a>
 
-<a href="[https://seninsiten.com](https://seydiali.wordpress.com/)" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
-       alt="Web Sitesi"
-       width="100"
-       height="100"
-       style="margin-bottom: 10px;" />
-</a>
+  <a href="https://seydiali.wordpress.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+         alt="Web Sitesi"
+         width="100"
+         height="100" />
+  </a>
+
+</div>
+
 
 
 &nbsp;
