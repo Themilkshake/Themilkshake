@@ -4,9 +4,14 @@
 <img src=https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png alt=Linkedin width=100" height="100" style="margin-bottom: 10px;" />
 </a>
 
-<a href="https://medium.com/@seydialiiclek" target="_blank">
-<img src=https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png alt=Medium width="100" height="100" style="margin-bottom: 10px;" />
+<a href="[https://seninsiten.com](https://seydiali.wordpress.com/)" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png"
+       alt="Web Sitesi"
+       width="100"
+       height="100"
+       style="margin-bottom: 10px;" />
 </a>
+
 
 &nbsp;
 
